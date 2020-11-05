@@ -32,10 +32,10 @@
       - University of Bayreuth, Plant Ecology, Bayreuth Center of Ecology and Environmental Research (BayCEER), Universitätsstr. 30, 95447, Bayreuth, Germany
       - German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig, Deutscher Platz 5e, 04103, Leipzig, Germany
   - github: 
-    name: Valério De Patta Pillar
+    name: Valério D. Pillar
     email: vpillar@ufrgs.br
     affiliations: 
-      - Federal University of Rio Grande do Sul, Ecology, Av. Bento Gonçalves 9500, 91501-970, Porto Alegre, Brazil
+      - Universidade Federal do Rio Grande do Sul, Department of Ecology, Av. Bento Gonçalves 9500, 91501-970, Porto Alegre, Brazil
   - github: 
     name: Patrice De Ruffray
     email: patrice.de-ruffray@wanadoo.fr
